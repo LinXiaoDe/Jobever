@@ -4,9 +4,13 @@
 
 - ***豆宝社区**：https://github.com/songboriceman/doubao_community_backend
 - 豆宝社区的视频：https://www.bilibili.com/video/BV1Wz4y1U7vC
-- 极光社区：https://github.com/haoyu21/aurora
-- 开源社区：https://github.com/pkwenda/new-bee
-- 博客项目：https://github.com/shimh-develop/blog-vue-springboot
+- 网页模板主页
+
+```
+https://onepagelove.com/templates/free-templates
+
+
+```
 
 
 
@@ -120,5 +124,4 @@
 @Builder.Default
 private Integer sectionId = 0;
 ```
-
 
