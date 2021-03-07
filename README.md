@@ -2,23 +2,34 @@
 
 ## 参考项目列表
 
-- ***豆宝社区**：https://github.com/songboriceman/doubao_community_backend
+- 豆宝社区：https://github.com/songboriceman/doubao_community_backend
 - 豆宝社区的视频：https://www.bilibili.com/video/BV1Wz4y1U7vC
-- 网页模板主页
-
-```
-https://onepagelove.com/templates/free-templates
-
-
-```
+- 网页模板主页：https://onepagelove.com/templates/free-templates
+- 部署地址：http://jobever.cn
 
 
 
 
+
+## 页面介绍
+
+- 主页
+
+![image-20210307162945904](https://i.loli.net/2021/03/07/kJtlGgeXQ8uYvZm.png)
+
+- 文章详情
+
+![image-20210307162652195](https://i.loli.net/2021/03/07/wPFORJyVlobpCUH.png)
+
+- 个人中心
+
+![image-20210307163012577](https://i.loli.net/2021/03/07/hRplySda6MWZeYE.png)
+
+- 图片上传
+
+![image-20210307163047376](https://i.loli.net/2021/03/07/5oV7weKsrjkC6yT.png)
 
 ## 功能改进
-
-
 
 - **添加左侧分类栏**
 
@@ -74,17 +85,6 @@ https://onepagelove.com/templates/free-templates
 - 其他消息也会在这里显示
 ```
 
-
-
-
-
-## Vue项目首次打开加载慢
-
-- 地址：http://jobever.cn:8080/
-- 解决：https://www.cnblogs.com/zyulike/p/11190012.html
-
-
-
 ## 项目结构
 
 ```zsh
@@ -104,12 +104,6 @@ https://onepagelove.com/templates/free-templates
 │   └── impl				# 
 └── utils
 ```
-
-
-
-不能删除
-
-
 
 ## 数据库设计
 
